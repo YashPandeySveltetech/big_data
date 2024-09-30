@@ -25,3 +25,12 @@ body {
     text-wrap: balance;
   }
 }
+
+.bg-gray-900 {
+  background-image: url(https://en.idei.club/uploads/posts/2023-06/1686748883_en-idei-club-p-matrix-background-dizain-instagram-3.jpg);
+
+}
+
+.force-graph-container canvas {
+  /* width: 100% !important; */
+}
